@@ -1,1 +1,2 @@
 # coderdojoid
+belajar python
